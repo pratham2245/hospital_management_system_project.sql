@@ -175,6 +175,5 @@ SELECT
         2
     ) AS growth_percentage
 FROM growth;
-
 "C:\Users\Prath\Downloads\Month-over-month Revenue Growth.png"
 
