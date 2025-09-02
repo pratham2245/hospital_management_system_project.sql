@@ -55,4 +55,7 @@ Columns cover treatment ID, associated appointment ID, treatment type (Chemother
   
 10. Calculate month-over-month revenue growth from billing data. generate 1 line insights for this.
 
+<img width="702" height="637" alt="Doctor Revenue Ranking" src="https://github.com/user-attachments/assets/21aac3f7-da1a-4d63-9715-672518675c15" />
+
+
 
