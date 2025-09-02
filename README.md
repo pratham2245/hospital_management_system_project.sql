@@ -37,25 +37,53 @@ Columns cover treatment ID, associated appointment ID, treatment type (Chemother
 # Exploratory Data Analysis (EDA) for the follwing questions:
 1. Display all patients covered by PulseSecure insurance.
 
+<img width="1237" height="256" alt="Screenshot 2025-09-01 132205" src="https://github.com/user-attachments/assets/61b3bed0-50ac-42d1-a86f-01eed7a4ff86" />
+
 2. Show the doctors who work in the “Central Hospital”.
 
+<img width="278" height="139" alt="Screenshot 2025-09-01 132235" src="https://github.com/user-attachments/assets/f4222ed8-cdc9-4c6d-86ee-d35d73664a38" />
+
 3. List the names and contact numbers of all patients registered in 2022.
+
+<img width="314" height="384" alt="Screenshot 2025-09-01 132307" src="https://github.com/user-attachments/assets/66222247-823b-4822-a471-8de318afabd2" />
    
 4. Find all bills where the payment status is “Pending”.
 
+
+
 5. Show the average treatment cost per treatment type. generate 1 line insights for this questions
+
+<img width="239" height="143" alt="Screenshot 2025-09-01 132422" src="https://github.com/user-attachments/assets/52d1268c-e30b-4aee-9a3f-e8daf2507f12" />
+
+<img width="702" height="637" alt="Average Cost by Treatment Type" src="https://github.com/user-attachments/assets/71e21228-3c48-4158-ad92-481c917b7f14" />
 
 6. What is the proportion of patients using each insurance provider, segmented by gender?
 
+<img width="368" height="145" alt="Screenshot 2025-09-01 132457" src="https://github.com/user-attachments/assets/9dd498d5-6268-4437-b5a5-1b1714aebb14" />
+
+<img width="702" height="637" alt="Proportion by Gender and Insurance Provider" src="https://github.com/user-attachments/assets/6bbd73dd-5357-466b-ab3a-d86f777c034f" />
+
 7. What is the monthly trend of new patient registrations?.
-  
+
+
+
+<img width="767" height="637" alt="Monthly New Patient Registrations Trend" src="https://github.com/user-attachments/assets/1a77c687-b92c-4c6f-b2cf-ed36dc27b4d7" />
+
 8. Identify top 5 doctor who has treated the highest number of unique patients.
-  
+
+<img width="368" height="145" alt="Screenshot 2025-09-01 132457" src="https://github.com/user-attachments/assets/a410ed88-a8fa-451e-91c5-ab2c4b5f034d" />
+
+<img width="767" height="637" alt="Top Doctors by Unique Patients" src="https://github.com/user-attachments/assets/a6cb390a-4b97-47db-b552-f82406143069" />
+
 9. Rank doctors based on the total revenue generated from their patients (using RANK() function).
-  
-10. Calculate month-over-month revenue growth from billing data. generate 1 line insights for this.
+
+<img width="407" height="242" alt="Screenshot 2025-09-01 132516" src="https://github.com/user-attachments/assets/1f4c22f5-fd72-4e9a-b0f4-03dad4a2c6ff" />
 
 <img width="702" height="637" alt="Doctor Revenue Ranking" src="https://github.com/user-attachments/assets/21aac3f7-da1a-4d63-9715-672518675c15" />
+
+10. Calculate month-over-month revenue growth from billing data. generate 1 line insights for this.
+
+<img width="702" height="637" alt="Month-over-month Revenue Growth" src="https://github.com/user-attachments/assets/1d04001e-0fe7-4b47-8a99-b51a7b379d35" />
 
 
 
