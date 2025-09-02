@@ -36,14 +36,23 @@ Columns cover treatment ID, associated appointment ID, treatment type (Chemother
 
 # Exploratory Data Analysis (EDA) for the follwing questions:
 1. Display all patients covered by PulseSecure insurance.
+
 2.Show the doctors who work in the “Central Hospital”.
+
 3. List the names and contact numbers of all patients registered in 2022.
+   
 4. Find all bills where the payment status is “Pending”.
+
 5. Show the average treatment cost per treatment type. generate 1 line insights for this questions
+
 6. What is the proportion of patients using each insurance provider, segmented by gender?
+
 7. What is the monthly trend of new patient registrations?.
+  
 8. Identify top 5 doctor who has treated the highest number of unique patients.
+  
 9. Rank doctors based on the total revenue generated from their patients (using RANK() function).
+  
 10. Calculate month-over-month revenue growth from billing data. generate 1 line insights for this.
 
 
