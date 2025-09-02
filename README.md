@@ -52,8 +52,9 @@ Columns cover treatment ID, associated appointment ID, treatment type (Chemother
 
   
 4. Find all bills where the payment status is “Pending”.
-
-
+<img width="73" height="580" alt="Screenshot 2025-09-02 131226" src="https://github.com/user-attachments/assets/96b4ef38-7903-42ea-acd4-9dc40ec342fe" />
+<img width="80" height="579" alt="Screenshot 2025-09-02 131255" src="https://github.com/user-attachments/assets/8a222943-e621-412e-91ec-7bf4ec9e4501" />
+<img width="78" height="337" alt="Screenshot 2025-09-02 131327" src="https://github.com/user-attachments/assets/3f13e3a6-e451-4ff6-9abf-9841904629d4" />
 
 
 5. Show the average treatment cost per treatment type. generate 1 line insights for this questions
@@ -71,11 +72,10 @@ Columns cover treatment ID, associated appointment ID, treatment type (Chemother
 
 
 7. What is the monthly trend of new patient registrations?.
-
-
+<img width="239" height="364" alt="Screenshot 2025-09-02 131500" src="https://github.com/user-attachments/assets/3da55dc7-4743-4614-be3d-632460d68c8f" />
+<img width="224" height="220" alt="Screenshot 2025-09-02 131523" src="https://github.com/user-attachments/assets/83b649df-9e46-479b-af2e-e40f889bdb38" />
 
 <img width="767" height="637" alt="Monthly New Patient Registrations Trend" src="https://github.com/user-attachments/assets/1a77c687-b92c-4c6f-b2cf-ed36dc27b4d7" />
-
 
 8. Identify top 5 doctor who has treated the highest number of unique patients.
 
