@@ -45,4 +45,5 @@ Columns cover treatment ID, associated appointment ID, treatment type (Chemother
 8. Identify top 5 doctor who has treated the highest number of unique patients.
 9. Rank doctors based on the total revenue generated from their patients (using RANK() function).
 10. Calculate month-over-month revenue growth from billing data. generate 1 line insights for this.
-"C:\Users\Prath\Downloads\Month-over-month Revenue Growth.png"
+
+
