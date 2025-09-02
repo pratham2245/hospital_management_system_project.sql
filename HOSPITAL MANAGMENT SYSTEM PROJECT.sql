@@ -208,7 +208,6 @@ SELECT
         2
     ) AS growth_percentage
 FROM growth;
-chart:"Month-over-month Revenue Growth.png"
 
 insights:
 Revenue Growth Instability: The organization experiences highly unstable month-over-month revenue growth, 
