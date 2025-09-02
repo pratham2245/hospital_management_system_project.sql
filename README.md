@@ -8,8 +8,28 @@
 # Objective 
 The objective of this project is to design and implement a Hospital Management System database that efficiently manages hospital operations, including patient records, doctor details, appointments, treatments, and billing. This SQL-based project ensures data consistency, quick retrieval of information, and streamlined healthcare management processes, providing a foundation for scalable hospital administration solutions.
 
-PulseSecure Coverage: 10 patients are covered by PulseSecure insurance, indicating a specific segment of the patient base.
-Central Hospital Staff: Central Hospital employs 4 doctors, primarily specializing in Pediatrics, with significant experience.
-2022 Patient Registrations: 17 patients registered in 2022, providing a clear view of recent patient intake and their contact information.
-Pending Bills Overview: There are 69 pending bills, highlighting a substantial number of outstanding payments across various payment methods.
-Treatment Cost Analysis: MRI is the most expensive treatment type on average, while ECG is the least, offering clear insights into cost distribution across different medical procedures.
+# Dataset Overview
+ * doctors_doctors_0.csv
+
+Contains 10 rows of data about doctors.
+Includes information such as doctor ID, first name, last name, specialization (Dermatology, Oncology, Pediatrics), phone number, years of experience, hospital branch, and email address.
+
+* appointments_appointments_0.csv
+
+Comprises 200 rows detailing patient appointments.
+Key columns include appointment ID, patient ID, doctor ID, appointment date and time, reason for visit (Checkup, Consultation, Emergency, Follow-up, Therapy), and appointment status (Cancelled, Completed, No-show, Scheduled).
+
+* billing_billing_0.csv
+
+Features 200 rows of billing records.
+Provides data on bill ID, patient ID, treatment ID, bill date, amount, payment method (Cash, Credit Card, Insurance), and payment status (Failed, Paid, Pending).
+
+* patients_patients_0.csv
+
+Contains 50 rows of patient demographic and contact information.
+Includes patient ID, first name, last name, gender, date of birth, contact number, address, registration date, insurance provider, insurance number, and email address.
+
+* treatments_treatments_0.csv
+
+Records 200 rows of treatment details.
+Columns cover treatment ID, associated appointment ID, treatment type (Chemotherapy, ECG, MRI, Physiotherapy, X-Ray), description, cost, and treatment date
