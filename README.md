@@ -1,6 +1,7 @@
 # hospital_management_system_project.sql
 
-<img width="874" height="1024" alt="image" src="https://github.com/user-attachments/assets/d8228407-968e-49af-8b61-03b88bca2d10" />
+<img width="602" height="452" alt="image" src="https://github.com/user-attachments/assets/dad633d5-ad21-4915-a4b8-3e3fb303e147" />
+
 
 
 
