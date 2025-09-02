@@ -103,3 +103,8 @@ Columns cover treatment ID, associated appointment ID, treatment type (Chemother
 * 2022 Patient Registrations: 17 patients registered in 2022, providing a clear view of recent patient intake and their contact information.
 * Pending Bills Overview: There are 69 pending bills, highlighting a substantial number of outstanding payments across various payment methods.
 * Treatment Cost Analysis: MRI is the most expensive treatment type on average, while ECG is the least, offering clear insights into cost distribution across different medical procedures.
+* Insurance Provider Preference: MedCare Plus is the preferred insurance provider, especially among female patients, while WellnessCorp is notably strong with male patients.
+* Patient Registration Volatility: New patient registrations show no clear growth trend, characterized by significant monthly fluctuations and intermittent peaks.
+* Top Doctor Performance: Sarah Taylor consistently leads in both the number of unique patients treated and total revenue generated, highlighting her as a key asset.
+* Revenue Generation Disparity: There is a clear hierarchy in revenue generation among doctors, with the top few contributing disproportionately to the total revenue.
+* Revenue Growth Instability: The organization experiences highly unstable month-over-month revenue growth, with substantial swings indicating a need for strategies to stabilize income.
