@@ -32,7 +32,10 @@ Includes patient ID, first name, last name, gender, date of birth, contact numbe
 * treatments_treatments_0.csv
 
 Records 200 rows of treatment details.
-Columns cover treatment ID, associated appointment ID, treatment type (Chemotherapy, ECG, MRI, Physiotherapy, X-Ray), description, cost, and treatment date
+Columns cover treatment ID, associated appointment ID, treatment type (Chemotherapy, ECG, MRI, Physiotherapy, X-Ray), description, cost, and treatment date.
+
+<img width="224" height="220" alt="Screenshot 2025-09-02 131523" src="https://github.com/user-attachments/assets/8b9a8a8a-ef93-40eb-b652-1b35684cbc8e" />
+
 
 # Exploratory Data Analysis (EDA) for the follwing questions:
 
