@@ -59,6 +59,29 @@ FOREIGN KEY (patient_id) REFERENCES patients(patient_id),
 FOREIGN KEY (treatment_id) REFERENCES treatment(treatment_id)
 );
 
+C:\Users\Prath\OneDrive\Pictures\Screenshots\Screenshot 2025-09-02 191605.png
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 -- QUESTIONS $$
 -- 1.-- Display all patients covered by PulseSecure insurance
 SELECT 
