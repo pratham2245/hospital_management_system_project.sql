@@ -108,3 +108,9 @@ Columns cover treatment ID, associated appointment ID, treatment type (Chemother
 * Top Doctor Performance: Sarah Taylor consistently leads in both the number of unique patients treated and total revenue generated, highlighting her as a key asset.
 * Revenue Generation Disparity: There is a clear hierarchy in revenue generation among doctors, with the top few contributing disproportionately to the total revenue.
 * Revenue Growth Instability: The organization experiences highly unstable month-over-month revenue growth, with substantial swings indicating a need for strategies to stabilize income.
+
+# Technologies use
+* Tools:MySQL to extract insights with the help of SQL query,Powerdrill ai for charts and images.
+
+# Conclusion:
+This medical dataset enables comprehensive analysis of hospital operations, including appointment scheduling efficiency and patient adherence. It provides insights into financial performance by tracking billing, payment statuses, and treatment costs. Furthermore, the data supports understanding patient demographics and treatment trends, as well as evaluating doctor workload and specialization impact across different hospital branches.
