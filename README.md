@@ -37,7 +37,7 @@ Columns cover treatment ID, associated appointment ID, treatment type (Chemother
 # Exploratory Data Analysis (EDA) for the follwing questions:
 1. Display all patients covered by PulseSecure insurance.
 
-2.Show the doctors who work in the “Central Hospital”.
+2. Show the doctors who work in the “Central Hospital”.
 
 3. List the names and contact numbers of all patients registered in 2022.
    
